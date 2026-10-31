@@ -44,6 +44,13 @@ section{padding:140px 0;border-top:1px solid var(--line)}
 .btn .arr{transition:transform .3s}
 .btn:hover .arr{transform:translateX(4px)}
 
+.btn.sc{background:#ff5500;border-color:#ff5500;color:#fff}
+.btn.sc:hover{background:#e64d00;border-color:#e64d00;color:#fff}
+.btn.bc{background:#1da0c3;border-color:#1da0c3;color:#fff}
+.btn.bc:hover{background:#178aa8;border-color:#178aa8;color:#fff}
+.socials a[aria-label="SoundCloud"]:hover{background:#ff5500;border-color:#ff5500}
+.socials a[aria-label="Bandcamp"]:hover{background:#1da0c3;border-color:#1da0c3}
+.socials a[aria-label="SoundCloud"]:hover svg,.socials a[aria-label="Bandcamp"]:hover svg{fill:#fff}
 /* header */
 header{position:fixed;top:0;left:0;right:0;z-index:50;transition:background .4s,border-color .4s;border-bottom:1px solid transparent}
 header.solid{background:rgba(26,26,26,.92);backdrop-filter:blur(10px);border-color:var(--line)}
@@ -222,8 +229,8 @@ footer{border-top:1px solid var(--line);padding:72px 0 40px}
         <div class="genres label"><span>House</span><span>Minimal</span><span>Techno</span><span>Breaks</span></div>
       </div>
       <div class="ctas">
-        <a class="btn solid" href="https://soundcloud.com/kematikyrecords" target="_blank" rel="noopener">Listen on SoundCloud <span class="arr">→</span></a>
-        <a class="btn" href="https://kematikyrecords.bandcamp.com" target="_blank" rel="noopener">Buy on Bandcamp <span class="arr">→</span></a>
+        <a class="btn solid sc" href="https://soundcloud.com/kematikyrecords" target="_blank" rel="noopener">Listen on SoundCloud <span class="arr">→</span></a>
+        <a class="btn bc" href="https://kematikyrecords.bandcamp.com" target="_blank" rel="noopener">Buy on Bandcamp <span class="arr">→</span></a>
       </div>
     </div>
   </div>
@@ -235,10 +242,10 @@ footer{border-top:1px solid var(--line);padding:72px 0 40px}
   <div class="wrap">
     <div class="sec-head">
       <div><span class="label rv">01 — Catalogue</span><h2 class="h2 rv">Releases</h2></div>
-      <a class="btn rv" href="https://kematikyrecords.bandcamp.com" target="_blank" rel="noopener">All <span id="relCount">38</span> releases <span class="arr">→</span></a>
+      <a class="btn rv bc" href="https://kematikyrecords.bandcamp.com" target="_blank" rel="noopener">All <span id="relCount">38</span> releases <span class="arr">→</span></a>
     </div>
     <div class="grid" id="relGrid"></div>
-    <div class="center"><button class="btn" id="more" onclick="renderMore()" style="margin-right:12px">Show more <span class="arr">↓</span></button><a class="btn solid" href="https://kematikyrecords.bandcamp.com" target="_blank" rel="noopener">Visit our Bandcamp store <span class="arr">→</span></a></div>
+    <div class="center"><button class="btn" id="more" onclick="renderMore()" style="margin-right:12px">Show more <span class="arr">↓</span></button><a class="btn solid bc" href="https://kematikyrecords.bandcamp.com" target="_blank" rel="noopener">Visit our Bandcamp store <span class="arr">→</span></a></div>
   </div>
 </section>
 
@@ -248,7 +255,7 @@ footer{border-top:1px solid var(--line);padding:72px 0 40px}
       <span class="label rv">02 — Stream</span>
       <h2 class="h2 rv">Listen</h2>
       <p class="lead rv">Mixes, premieres and every Kematiky release — streaming on SoundCloud.</p>
-      <a class="btn rv" href="https://soundcloud.com/kematikyrecords" target="_blank" rel="noopener">Follow on SoundCloud <span class="arr">→</span></a>
+      <a class="btn rv sc" href="https://soundcloud.com/kematikyrecords" target="_blank" rel="noopener">Follow on SoundCloud <span class="arr">→</span></a>
     </div>
     <div class="player rv" id="scPlayer">
       <a class="player-fallback" href="https://soundcloud.com/kematikyrecords" target="_blank" rel="noopener">
@@ -279,7 +286,7 @@ footer{border-top:1px solid var(--line);padding:72px 0 40px}
       <span class="label rv">04 — Demos & Contact</span>
       <h2 class="h2 rv">Send<br>your<br>demo</h2>
       <p class="rv" style="color:var(--mid);margin-top:28px;max-width:360px">Private SoundCloud links only. We listen to everything — if it fits the label, we'll get in touch.</p>
-      <span class="mail rv">contact@kematikyrecords.com</span>
+      <span class="mail rv"><a href="mailto:kematiky@gmail.com">kematiky@gmail.com</a></span>
     </div>
     <form id="demo" class="rv">
       <div class="f"><label class="label" for="n">Name</label><input id="n" required placeholder="Your name"></div>
@@ -288,7 +295,7 @@ footer{border-top:1px solid var(--line);padding:72px 0 40px}
       <div class="f"><label class="label" for="l">Private SoundCloud link</label><input id="l" type="url" required placeholder="https://soundcloud.com/..."></div>
       <div class="f full"><label class="label" for="m">Message</label><textarea id="m" rows="4" placeholder="Tell us about the tracks"></textarea></div>
       <div class="f full" style="align-items:flex-start"><button class="btn solid" type="submit">Send demo <span class="arr">→</span></button></div>
-      <p class="sent" id="sent">Thanks — demo received. We'll be in touch.</p>
+      <p class="sent" id="sent">Your email app opened with the demo — just hit send. Or write to kematiky@gmail.com</p>
     </form>
   </div>
 </section>
@@ -416,7 +423,10 @@ document.querySelectorAll('.nav ul a').forEach(a=>a.onclick=()=>document.body.cl
 document.querySelectorAll('.rv:not(.rel)').forEach(el=>io.observe(el));
 
 /* form (connect to Formspree/Netlify Forms when hosting) */
-document.getElementById('demo').addEventListener('submit',e=>{e.preventDefault();document.getElementById('sent').style.display='block';e.target.reset()});
+document.getElementById('demo').addEventListener('submit',e=>{e.preventDefault();const v=id=>document.getElementById(id).value;
+  const body=`Name: ${v('n')}\nEmail: ${v('e')}\nArtist: ${v('a')}\nSoundCloud: ${v('l')}\n\n${v('m')}`;
+  location.href='mailto:kematiky@gmail.com?subject='+encodeURIComponent('Demo — '+(v('a')||v('n')))+'&body='+encodeURIComponent(body);
+  document.getElementById('sent').style.display='block';});
 document.getElementById('yr').textContent=new Date().getFullYear();
 </script>
 </body>
