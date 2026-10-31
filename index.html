@@ -32,7 +32,7 @@ body::after{content:"";position:fixed;inset:-50%;pointer-events:none;z-index:100
 
 .wrap{width:min(1280px,100% - 48px);margin-inline:auto}
 .label{font-family:var(--label);font-size:11px;letter-spacing:.32em;text-transform:uppercase;color:var(--mid)}
-.h2{font-family:var(--display);font-weight:900;font-size:clamp(40px,7vw,104px);line-height:.92;letter-spacing:-.02em;text-transform:uppercase}
+.h2{font-family:var(--display);font-weight:900;font-size:clamp(34px,6vw,88px);line-height:.95;letter-spacing:0;text-transform:uppercase}
 section{padding:140px 0;border-top:1px solid var(--line)}
 .sec-head{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;margin-bottom:64px;flex-wrap:wrap}
 .sec-head .label{display:block;margin-bottom:18px}
@@ -61,8 +61,8 @@ header.solid{background:rgba(26,26,26,.92);backdrop-filter:blur(10px);border-col
 /* hero */
 .hero{overflow:hidden;min-height:100vh;display:flex;flex-direction:column;justify-content:space-between;padding:150px 0 48px;position:relative;border:0}
 .hero .mark{position:absolute;right:4%;top:50%;transform:translateY(-55%);height:min(70vh,640px);opacity:.07;pointer-events:none}
-.hero-title{font-family:var(--display);font-weight:900;font-size:clamp(56px,15.5vw,250px);line-height:.85;letter-spacing:-.035em;margin-top:auto}
-.hero-sub{font-family:var(--label);letter-spacing:1.05em;font-size:clamp(13px,2.2vw,30px);text-transform:uppercase;margin-top:18px;padding-left:.4em}
+.hero-title{font-family:var(--display);font-weight:900;font-size:12vw;line-height:.9;letter-spacing:0;margin-top:auto;white-space:nowrap;display:inline-block}
+.hero-sub{font-family:var(--label);letter-spacing:1.05em;white-space:nowrap;font-size:clamp(13px,2.2vw,30px);text-transform:uppercase;margin-top:18px;padding-left:.4em}
 .hero-foot{display:flex;justify-content:space-between;align-items:flex-end;gap:32px;margin-top:72px;flex-wrap:wrap}
 .hero-foot p{max-width:360px;color:var(--mid);font-size:15px}
 .hero-foot .ctas{display:flex;gap:12px;flex-wrap:wrap}
@@ -75,7 +75,7 @@ header.solid{background:rgba(26,26,26,.92);backdrop-filter:blur(10px);border-col
 @keyframes mq{to{transform:translateX(-50%)}}
 
 /* releases */
-.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:28px}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:40px 32px}
 .bcrel{cursor:default}
 .bcrel .cat{margin-bottom:12px}
 .bcwrap{position:relative;aspect-ratio:350/470;background:var(--card);border:1px solid var(--line)}
@@ -120,7 +120,7 @@ header.solid{background:rgba(26,26,26,.92);backdrop-filter:blur(10px);border-col
 .artist .top{display:flex;justify-content:space-between}
 
 /* about */
-.manifesto{font-family:var(--display);font-weight:400;font-size:clamp(26px,3.6vw,52px);line-height:1.15;letter-spacing:-.01em;max-width:1100px}
+.manifesto{font-family:var(--display);font-weight:400;font-size:clamp(22px,3vw,44px);line-height:1.25;letter-spacing:0;max-width:1100px}
 .manifesto em{font-style:normal;color:var(--mid)}
 .facts{display:grid;grid-template-columns:repeat(4,1fr);margin-top:96px;border-top:1px solid var(--line)}
 .facts div{padding:32px 24px 0 0}
@@ -263,11 +263,11 @@ footer{border-top:1px solid var(--line);padding:72px 0 40px}
 <section id="about">
   <div class="wrap">
     <span class="label rv" style="display:block;margin-bottom:40px">03 — About</span>
-    <p class="manifesto rv">Born in Brazil in 2020, Kematiky is an independent label built for the dancefloor. <em>House, minimal, techno and breaks</em> — from our resident crew to artists from Georgia, the UK, Slovenia and Egypt, through the <em>Kematiky Sonar Episodes</em> series.</p>
+    <p class="manifesto rv">Born in Brazil in 2016, Kematiky is an independent label built for the dancefloor. <em>House, minimal, techno and breaks</em> — from our resident crew to artists from Georgia, the UK, Slovenia and Egypt, through the <em>Kematiky Sonar Episodes</em> series.</p>
     <div class="facts rv">
       <div><strong>38</strong><span class="label">Releases</span></div>
       <div><strong>BR</strong><span class="label">Based in Brazil</span></div>
-      <div><strong>2020</strong><span class="label">Since</span></div>
+      <div><strong>2016</strong><span class="label">Since</span></div>
       <div><strong>∞</strong><span class="label">Parties</span></div>
     </div>
   </div>
@@ -348,7 +348,7 @@ function fillCover(box,r,i){box.innerHTML=cover(i+1);if(!r.cover)return;const im
   im.style.cssText='position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:grayscale(1) contrast(1.05);transition:filter .6s';
   im.onload=()=>{box.innerHTML='';box.appendChild(im)};im.src=r.cover;}
 const relGrid=document.getElementById('relGrid');
-let ALL=releases, shown=0; const STEP=8;
+let ALL=releases, shown=0; const STEP=9;
 function relCard(r,i){
   const el=document.createElement('article');el.className='rel bcrel rv';el.style.transitionDelay=((i%STEP)*.06)+'s';
   const kind=r.type==='track'?'track':'album';
@@ -403,6 +403,9 @@ document.getElementById('close').onclick=closeModal;
 modal.onclick=e=>{if(e.target===modal)closeModal()};
 addEventListener('keydown',e=>{if(e.key==='Escape')closeModal()});
 
+/* fit hero title to width */
+function fitHero(){const t=document.querySelector('.hero-title');const w=t.parentElement.clientWidth;t.style.fontSize='100px';t.style.fontSize=Math.min(100*w/t.scrollWidth,320)+'px';}
+fitHero();addEventListener('resize',fitHero);document.fonts&&document.fonts.ready.then(fitHero);
 /* header + menu */
 const hd=document.querySelector('header');
 const onS=()=>hd.classList.toggle('solid',scrollY>40);onS();addEventListener('scroll',onS,{passive:true});
