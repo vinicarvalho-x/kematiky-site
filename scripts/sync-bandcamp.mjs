@@ -75,12 +75,16 @@ const fmt = (s) => `${Math.floor(s / 60)}:${String(Math.round(s % 60)).padStart(
 
 // "[KSE010] Yamoc - House Of Corner EP" → cat KSE010, title "House Of Corner EP"
 function tidy(it) {
-  let title = it.title;
+  const zw = (x = "") => x.replace(/[\u200B-\u200D\uFEFF]/g, "").trim();
+  let title = zw(it.title);
+  it.artist = zw(it.artist);
   let cat = "";
   const c = title.match(/^\[([^\]]+)\]\s*-?\s*/);
   if (c) { cat = c[1]; title = title.slice(c[0].length); }
   else if (/^[A-Z]{2,4}\d{2,4}$/.test(title)) { cat = title; title = ""; }
-  if (it.artist && title.toLowerCase().startsWith(it.artist.toLowerCase() + " - ")) title = title.slice(it.artist.length + 3);
+  for (const a of [it.artist, (it.artist || "").split(",")[0].trim()]) {
+    if (a && title.toLowerCase().startsWith(a.toLowerCase() + " - ")) { title = title.slice(a.length + 3); break; }
+  }
   if (!title) title = cat;
   const d = it.date ? new Date(it.date) : null;
   return {
