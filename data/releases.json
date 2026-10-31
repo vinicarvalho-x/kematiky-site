@@ -1,250 +1,1102 @@
 {
-  "updated": "2026-10-31T00:00:00Z",
-  "count": 8,
+  "updated": "2026-10-31T18:35:42.862Z",
+  "count": 38,
   "releases": [
     {
       "cat": "KSE011",
       "title": "Echoes Of Summer EP",
       "artist": "B.Sides",
       "date": "Oct 2026",
-      "iso": "",
+      "iso": "2026-10-01",
       "type": "album",
       "id": "3461084379",
       "url": "https://kematikyrecords.bandcamp.com/album/kse011-b-sides-echoes-of-summer-ep",
       "cover": "https://f4.bcbits.com/img/a0212099310_10.jpg",
       "tracks": [
         [
-          "Under The Stairs",
-          "7:34"
+          "B.Sides - Under The Stairs",
+          "7:35"
         ],
         [
-          "S.H.D.",
+          "B.Sides - S.H.D.",
           "7:04"
         ],
         [
-          "Echoes Of Summer",
-          "8:53"
+          "B.Sides - Echoes Of Summer",
+          "8:54"
         ],
         [
-          "End Sequence",
-          "6:34"
+          "B.Sides - End Sequence",
+          "6:35"
         ]
       ],
-      "about": ""
+      "about": "Originally from the South Coast of England, Brad lived some years in Melbourne, Australia, and now he is based again in England. He is a DJ and producer driven by curiosity, freedom and a deep connection to underground electronic music. Unbound by genre, Brad moves naturally between off-kilter house, techno, breaks, electro and darker, more unexpected corners of the spectrum, like this new EP on our label. Go get your copy!"
+    },
+    {
+      "cat": "",
+      "title": "Break 3000 - Discothèque (Guterres Edit) (Free Download)",
+      "artist": "Guterres",
+      "date": "Aug 2026",
+      "iso": "2026-08-07",
+      "type": "track",
+      "id": "136562047",
+      "url": "https://kematikyrecords.bandcamp.com/track/break-3000-discoth-que-guterres-edit-free-download",
+      "cover": "https://f4.bcbits.com/img/a2466419743_10.jpg",
+      "tracks": [
+        [
+          "Guterres - Break 3000 - Discothèque (Guterres Edit) (Free Download)",
+          "6:30"
+        ]
+      ],
+      "about": "Hi, everyone! We are here to thank you so much for all these years supporting us and as a gift, for this Bandcamp Friday, we are giving away this edit of Guterres, our resident. Hope you like it and also our entire discography is now with a 70% discount until Friday of next week. See you soon :)"
     },
     {
       "cat": "KSE010",
       "title": "House Of Corner EP",
       "artist": "Yamoc",
       "date": "Jul 2026",
-      "iso": "",
+      "iso": "2026-07-10",
       "type": "album",
       "id": "3433516709",
       "url": "https://kematikyrecords.bandcamp.com/album/kse010-yamoc-house-of-corner-ep",
       "cover": "https://f4.bcbits.com/img/a3804967754_10.jpg",
       "tracks": [
         [
-          "House Of Corner",
-          "6:26"
+          "Yamoc - House Of Corner",
+          "6:27"
         ],
         [
-          "House Of Corner (Mocongo Remix)",
-          "6:03"
+          "Yamoc - House Of Corner (Mocongo Remix)",
+          "6:04"
         ],
         [
-          "Acid Jukebox",
-          "6:16"
+          "Yamoc - Acid Jukebox",
+          "6:17"
         ],
         [
-          "Break Principle",
+          "Yamoc - Break Principle",
           "6:11"
         ]
       ],
-      "about": ""
+      "about": "The georgian Yamoc returns to our sonar series with another party EP, but this time he invited his countryman Mocongo for a breakbeat reinterpretation and the result is fantastic. It's out now =)"
     },
     {
       "cat": "KSE009",
       "title": "Waverider EP",
       "artist": "Rowan",
       "date": "Jun 2026",
-      "iso": "",
+      "iso": "2026-06-18",
       "type": "album",
       "id": "2097398211",
       "url": "https://kematikyrecords.bandcamp.com/album/kse009-rowan-waverider-ep",
       "cover": "https://f4.bcbits.com/img/a2658746494_10.jpg",
       "tracks": [
         [
-          "Ride That Wave",
-          "5:49"
+          "Rowan - Ride That Wave",
+          "5:50"
         ],
         [
-          "Airglow",
-          "6:00"
+          "Rowan - Airglow",
+          "6:01"
         ],
         [
-          "Ethereal Thoughts",
+          "Rowan - Ethereal Thoughts",
           "7:12"
         ],
         [
-          "Ethereal Thoughts (Existencia Pasajera Remix)",
+          "Rowan - Ethereal Thoughts (Existencia Pasajera Remix)",
           "6:46"
         ]
       ],
-      "about": ""
+      "about": "Hi, everyone. On this opportunity, we welcome an established Portuguese producer: Rowan. A great connection between melodic textures and an astral trip. The EP counts with a break remix of Existencia Pasajera, another excellent producer and very well known in this scene. Super EP!"
     },
     {
       "cat": "KSE008",
       "title": "Prog Dialog EP",
       "artist": "Yapp!",
       "date": "May 2026",
-      "iso": "",
+      "iso": "2026-05-07",
       "type": "album",
       "id": "2027178184",
       "url": "https://kematikyrecords.bandcamp.com/album/kse008-yapp-prog-dialog-ep",
       "cover": "https://f4.bcbits.com/img/a3552361184_10.jpg",
       "tracks": [
         [
-          "Prog Dialog",
-          "5:38"
+          "Yapp! - Prog Dialog",
+          "5:39"
         ],
         [
-          "Prog Dialog (Glen S' Robot Sound Remix)",
+          "Yapp! - Prog Dialog (Glen S' Robot Sound Remix)",
           "6:46"
         ],
         [
-          "Deja Vu",
+          "Yapp! - Deja Vu",
           "6:38"
         ],
         [
-          "In Your Heart",
-          "6:07"
+          "Yapp! - In Your Heart",
+          "6:08"
         ]
       ],
-      "about": ""
+      "about": "Hi everyone! EP number 8 on our Sonar series is ready to go and in this occasion we introduce you to the world of Yapp! Young but experienced producer from Israel, he blends House, trance and progressive in a futuristic way. It's perfect for heating up any stage. The reinterpretation comes from Glen S, Australian based in Berlin, with a percussive version and a robotic voice, perfect for an intro."
     },
     {
       "cat": "KSE007",
       "title": "Fabio On Time EP",
       "artist": "Fabricio",
       "date": "Feb 2026",
-      "iso": "",
+      "iso": "2026-02-19",
       "type": "album",
       "id": "1120295408",
       "url": "https://kematikyrecords.bandcamp.com/album/kse007-fabricio-fabio-on-time-ep",
       "cover": "https://f4.bcbits.com/img/a2121789646_10.jpg",
       "tracks": [
         [
-          "Monkeys And Bananas",
+          "Fabricio - Monkeys And Bananas",
           "5:30"
         ],
         [
-          "Humm",
-          "5:22"
+          "Fabricio - Humm",
+          "5:23"
         ],
         [
-          "Pečenka",
-          "5:20"
+          "Fabricio - Pečenka",
+          "5:21"
         ],
         [
-          "smr",
+          "Fabricio - smr",
           "5:50"
         ]
       ],
-      "about": ""
+      "about": "Hello, Kematikers! After a long period without a full EP release, we have a very good reason to show up again. This EP has 4 original tracks, from a nice guy and an excellent producer from Slovenia. Fabricio is one of a kind between the new comers on underground electronic music. His talent is remarkable and this EP proves it. Each track has it's own moment for listening or playing, and they can be used in many ways at parties or even listening at home, work, whatever. A blend of house, electro, funk, and vision. Just give it a try!"
+    },
+    {
+      "cat": "",
+      "title": "Imagination",
+      "artist": "Unknown Artist",
+      "date": "Oct 2025",
+      "iso": "2025-10-21",
+      "type": "track",
+      "id": "2708132386",
+      "url": "https://kematikyrecords.bandcamp.com/track/unknown-artist-imagination",
+      "cover": "https://f4.bcbits.com/img/a1820394810_10.jpg",
+      "tracks": [
+        [
+          "Unknown Artist - Unknown Artist - Imagination",
+          "6:16"
+        ]
+      ],
+      "about": "Unknown Artist - Imagination by Unknown Artist, released 21 October 2025"
+    },
+    {
+      "cat": "",
+      "title": "Break Phenomenon",
+      "artist": "Guterres",
+      "date": "Sep 2025",
+      "iso": "2025-09-05",
+      "type": "track",
+      "id": "4035105749",
+      "url": "https://kematikyrecords.bandcamp.com/track/guterres-break-phenomenon",
+      "cover": "https://f4.bcbits.com/img/a1456021938_10.jpg",
+      "tracks": [
+        [
+          "Guterres - Guterres - Break Phenomenon",
+          "6:24"
+        ]
+      ],
+      "about": "New single, by our guy, Guterres."
+    },
+    {
+      "cat": "KMY016",
+      "title": "KMY016",
+      "artist": "Tasq",
+      "date": "Aug 2025",
+      "iso": "2025-08-01",
+      "type": "album",
+      "id": "2382203998",
+      "url": "https://kematikyrecords.bandcamp.com/album/kmy016",
+      "cover": "https://f4.bcbits.com/img/a3714981215_10.jpg",
+      "tracks": [
+        [
+          "Tasq - Late Freq",
+          "7:30"
+        ],
+        [
+          "Tasq - Dys",
+          "10:59"
+        ],
+        [
+          "Tasq - Overdream",
+          "15:50"
+        ],
+        [
+          "Tasq - Kindof",
+          "6:49"
+        ],
+        [
+          "Tasq - Mentor",
+          "6:05"
+        ],
+        [
+          "Tasq - Oneof",
+          "8:23"
+        ],
+        [
+          "Tasq - Fear",
+          "19:48"
+        ],
+        [
+          "Tasq - Orot",
+          "7:49"
+        ],
+        [
+          "Tasq - Split",
+          "8:00"
+        ],
+        [
+          "Tasq - Trace",
+          "6:08"
+        ],
+        [
+          "Tasq - Poax",
+          "6:40"
+        ]
+      ],
+      "about": "Hi, fans! Here we go again and this time we come with our first ever album released, and it couldn't be different, it's from our resident and collaborator, Tasq. He is one of a kind with his deep minimalistic world of possibilities. Just an incredible journey into his brand new works. Go try it!"
+    },
+    {
+      "cat": "",
+      "title": "One-Off (Free Download)",
+      "artist": "Guterres",
+      "date": "Apr 2025",
+      "iso": "2025-04-17",
+      "type": "track",
+      "id": "1989308108",
+      "url": "https://kematikyrecords.bandcamp.com/track/guterres-one-off-free-download",
+      "cover": "https://f4.bcbits.com/img/a3011882135_10.jpg",
+      "tracks": [
+        [
+          "Guterres - Guterres - One-Off (Free Download)",
+          "6:21"
+        ]
+      ],
+      "about": "An Easter gift for all you fans. Made by our resident, Guterres. Thanks for all."
     },
     {
       "cat": "KSE006",
       "title": "Electric Energy EP",
       "artist": "Yamoc",
       "date": "Nov 2024",
-      "iso": "",
+      "iso": "2024-11-12",
       "type": "album",
       "id": "3009731699",
       "url": "https://kematikyrecords.bandcamp.com/album/kse006-yamoc-electric-energy-ep",
-      "cover": "",
+      "cover": "https://f4.bcbits.com/img/a0990665276_10.jpg",
       "tracks": [
         [
-          "One Step",
+          "Yamoc - One Step",
           "7:08"
         ],
         [
-          "Felt Bass",
+          "Yamoc - Felt Bass",
           "6:31"
         ],
         [
-          "People Smiling",
-          "7:06"
+          "Yamoc - People Smiling",
+          "7:07"
         ],
         [
-          "Casting Voice",
-          "5:47"
+          "Yamoc - Casting Voice",
+          "5:48"
         ],
         [
-          "Back In Real",
+          "Yamoc - Back In Real",
           "5:18"
         ]
       ],
-      "about": ""
+      "about": "In the next chapter, we present again Yamoc, a georgian artist that brings a good mix of house, tech, trance and progressive characteristcs in his music. The EP has 5 tracks, all of them are a heat for the crowd and the last one is a ambient/downtempo, great for starting a set. Please, go check it s2"
     },
     {
       "cat": "KSE005",
       "title": "Where Is The Groove EP",
       "artist": "OT",
       "date": "Oct 2024",
-      "iso": "",
+      "iso": "2024-10-17",
       "type": "album",
       "id": "2753178866",
       "url": "https://kematikyrecords.bandcamp.com/album/kse005-ot-where-is-the-groove-ep",
       "cover": "https://f4.bcbits.com/img/a2881668194_10.jpg",
       "tracks": [
         [
-          "Where Is The Groove",
+          "OT - Where Is The Groove",
           "7:00"
         ],
         [
-          "You Will Find Me",
+          "OT - You Will Find Me",
           "6:01"
         ],
         [
-          "Milli",
-          "5:26"
+          "OT - Milli",
+          "5:27"
         ],
         [
-          "Dida",
-          "6:26"
+          "OT - Dida",
+          "6:27"
         ]
       ],
-      "about": ""
+      "about": "For our release of number 5 in this series, we welcome OT, an egyptian that is showing really good skills with his deep vision sound design. This EP is pretty interesting. A four track that little by little evolve you and proves why he is a rising star. Wish you a good ride <3"
     },
     {
       "cat": "KSE004",
       "title": "Orbital Frequency EP",
       "artist": "Jonny Wednesday",
       "date": "Oct 2024",
-      "iso": "",
+      "iso": "2024-10-04",
       "type": "album",
       "id": "97801896",
       "url": "https://kematikyrecords.bandcamp.com/album/kse004-jonny-wednesday-orbital-frequency-ep",
       "cover": "https://f4.bcbits.com/img/a0431385514_10.jpg",
       "tracks": [
         [
-          "Analog Circuit Dream",
+          "Jonny Wednesday - Analog Circuit Dream",
           "8:48"
         ],
         [
-          "Orbital Frequency",
-          "8:53"
+          "Jonny Wednesday - Orbital Frequency",
+          "8:54"
         ],
         [
-          "Rhythm Valley",
+          "Jonny Wednesday - Rhythm Valley",
           "6:26"
         ],
         [
-          "The Shake Down",
-          "7:13"
+          "Jonny Wednesday -  The Shake Down",
+          "7:14"
         ]
       ],
-      "about": ""
+      "about": "Returning now with our fourth release on Kematiky Sonar Episodes, a strong EP made by a super talented britanic producer, Jonny Wednesday. Here we got 4 dancefloor rockets to fit well your cases. Let's go :D"
+    },
+    {
+      "cat": "KSE003​​​​​​​.​​​​​​​4",
+      "title": "Turbo Beats VA",
+      "artist": "Various Artists",
+      "date": "Jul 2024",
+      "iso": "2024-07-25",
+      "type": "album",
+      "id": "1354240782",
+      "url": "https://kematikyrecords.bandcamp.com/album/kse003-4-turbo-beats-va",
+      "cover": "https://f4.bcbits.com/img/a2526300953_10.jpg",
+      "tracks": [
+        [
+          "Guterres - Artificial Intelligence",
+          "6:47"
+        ],
+        [
+          "Yamoc - Closure",
+          "6:12"
+        ],
+        [
+          "Hannd - Fungi Furniture",
+          "7:45"
+        ],
+        [
+          "Truecall - Stelar Symphony",
+          "8:04"
+        ]
+      ],
+      "about": "The third episode is a various artists, this is the fourth and last part of 4 parts and each one has a different theme, showing all genres we like the most. Last piece here, we present you with 4 house tracks, designed to give spice to the dancefloor, with some progressive and trance elements. 2 tracks from brazilians, one from Guterres, our gold boy resident, another from a new comer in the label, Truecall. Other 2 tracks are from UK and Georgia. Hannd, which already released a great ep with us and the debut of Yamoc. Now we close this VA with 16 tracks. Great to have in your cases."
+    },
+    {
+      "cat": "KSE003​​​.​​​3",
+      "title": "Concrete Vision VA",
+      "artist": "Various Artists",
+      "date": "Jul 2024",
+      "iso": "2024-07-19",
+      "type": "album",
+      "id": "3140461884",
+      "url": "https://kematikyrecords.bandcamp.com/album/kse003-3-concrete-vision-va",
+      "cover": "https://f4.bcbits.com/img/a2936893448_10.jpg",
+      "tracks": [
+        [
+          "Bright Clouds - The Groove",
+          "6:30"
+        ],
+        [
+          "DDA - Serenity On",
+          "6:34"
+        ],
+        [
+          "Ranura De La Selva - Building Blocks",
+          "6:16"
+        ],
+        [
+          "Terrenza - It Ain’t Too Goddamn Beaucoup",
+          "9:19"
+        ]
+      ],
+      "about": "The third episode is a various artists, this is the third part of 4 parts and each part has a different theme, showing all genres we like the most. This chapter gives us 4 solid and smooth tracks and the meaning is on the name of it, which resumes them: Concrete Vision. We have here 2 brazilians and 2 europeans, one from France and another from UK. Such great talents right here. Be aware, contains beauty and concept =D"
+    },
+    {
+      "cat": "KSE003​.​2",
+      "title": "Dark Is Relative VA",
+      "artist": "Various Artists",
+      "date": "Jul 2024",
+      "iso": "2024-07-11",
+      "type": "album",
+      "id": "1515575644",
+      "url": "https://kematikyrecords.bandcamp.com/album/kse003-2-dark-is-relative-va",
+      "cover": "https://f4.bcbits.com/img/a3898585931_10.jpg",
+      "tracks": [
+        [
+          "Rowan - Ulterior Motive",
+          "6:32"
+        ],
+        [
+          "DD7016 - All Fun And Games",
+          "7:22"
+        ],
+        [
+          "PR.A.DO - Extraction",
+          "7:08"
+        ],
+        [
+          "Saharty - Dark Energy",
+          "5:17"
+        ]
+      ],
+      "about": "The third episode is a various artists, this is the second part of 4 parts and each part has a different theme, showing all genres we like the most. On this one, we have 4 techno house tracks, with more obscure elements. One is from the brazilian rising talent PR.A.DO and 3 from producers all over the world: Portugal, Slovenia and Egypt. Very energetic here! =)"
+    },
+    {
+      "cat": "KSE003.1",
+      "title": "Shaking Heads VA",
+      "artist": "Various Artists",
+      "date": "Jul 2024",
+      "iso": "2024-07-02",
+      "type": "album",
+      "id": "3881805170",
+      "url": "https://kematikyrecords.bandcamp.com/album/kse0031-shaking-heads-va",
+      "cover": "https://f4.bcbits.com/img/a2412704780_10.jpg",
+      "tracks": [
+        [
+          "Criminal Issues - I No Longer Believe",
+          "6:02"
+        ],
+        [
+          "IN-FJ - Wicago Child",
+          "7:16"
+        ],
+        [
+          "Jonny Wednesday - Acid Trick",
+          "6:47"
+        ],
+        [
+          "Sahm - Ringtone",
+          "6:04"
+        ]
+      ],
+      "about": "The third episode is a various artists, this first part of 4 parts and each part has a different theme, showing all genres we like the most. On this one, we have 4 house party tracks, 2 from brazilians and 2 from british producers. have a nice shot, buddies!"
+    },
+    {
+      "cat": "",
+      "title": "AG - Forgetfulness (Unknown Artist Edit)",
+      "artist": "Kematiky Records",
+      "date": "Jun 2024",
+      "iso": "2024-06-20",
+      "type": "track",
+      "id": "400520078",
+      "url": "https://kematikyrecords.bandcamp.com/track/ag-forgetfulness-unknown-artist-edit",
+      "cover": "https://f4.bcbits.com/img/a2366868294_10.jpg",
+      "tracks": [
+        [
+          "AG - Forgetfulness (Unknown Artist Edit)",
+          "5:36"
+        ]
+      ],
+      "about": "Big edit coming straight from the Unknown. Enjoy this powerful dark weapon"
+    },
+    {
+      "cat": "KSE002",
+      "title": "Guterres - The Future Dance EP",
+      "artist": "Guterres, Marcos Coya",
+      "date": "Mar 2024",
+      "iso": "2024-03-08",
+      "type": "album",
+      "id": "322463337",
+      "url": "https://kematikyrecords.bandcamp.com/album/kse002-guterres-the-future-dance-ep",
+      "cover": "https://f4.bcbits.com/img/a1540082172_10.jpg",
+      "tracks": [
+        [
+          "Guterres - The Future Dance",
+          "7:05"
+        ],
+        [
+          "Guterres - Turbulence in the Stars",
+          "6:40"
+        ],
+        [
+          "Guterres - Robotic Interference",
+          "6:24"
+        ],
+        [
+          "Guterres - Robotic Interference (Marcos Coya Remix)",
+          "6:01"
+        ]
+      ],
+      "about": "Continuing our new sonar series, our boy Guterres comes at his best in this moment, with a beautiful journey into his new spacy music aesthetic. Each track has it's own mood, all of them to kill any dancefloor around the world. The remixer this time is a well known producer from Uruguay: Marcos Coya. Make sure you don't miss this super EP."
+    },
+    {
+      "cat": "KMY015",
+      "title": "KMY015",
+      "artist": "Boncalo Denis, Zippel",
+      "date": "Feb 2024",
+      "iso": "2024-02-23",
+      "type": "album",
+      "id": "1606349813",
+      "url": "https://kematikyrecords.bandcamp.com/album/kmy015",
+      "cover": "https://f4.bcbits.com/img/a3600711486_10.jpg",
+      "tracks": [
+        [
+          "Boncalo Denis - You",
+          "6:54"
+        ],
+        [
+          "Boncalo Denis - Profund Pleasure",
+          "7:06"
+        ],
+        [
+          "Zippel - Maben",
+          "9:02"
+        ],
+        [
+          "Zippel - Voisbez",
+          "9:40"
+        ]
+      ],
+      "about": "Hello everyone. Next chapter is a VA of two artists: one is the Romanian great talent, Boncalo Denis and the other is one of our local pupils, Zippel and his incredible plural way of producing. They show their potential in 4 deep minimal pieces, 2 for each artist."
+    },
+    {
+      "cat": "KMY014",
+      "title": "KMY014",
+      "artist": "Caiot, Mat Roz",
+      "date": "Feb 2024",
+      "iso": "2024-02-09",
+      "type": "album",
+      "id": "3867796571",
+      "url": "https://kematikyrecords.bandcamp.com/album/kmy014",
+      "cover": "https://f4.bcbits.com/img/a1245709089_10.jpg",
+      "tracks": [
+        [
+          "Caiot - Free to Create",
+          "6:38"
+        ],
+        [
+          "Caiot - Free to Create (Mat Roz Remix)",
+          "7:53"
+        ],
+        [
+          "Caiot - Positive Education",
+          "7:08"
+        ]
+      ],
+      "about": "Yo friends! This EP is a 3 tracker from a Brazilian artist and friend of the label for a long time: Caiot, Sintoniza Records creator. It comes with a deep interpretation of an emerging new talent from São Paulo, Mat Roz. He runs a nice label called Loup Soup Records which has lots of strong tracks and much more to come."
+    },
+    {
+      "cat": "KMY013",
+      "title": "KMY013",
+      "artist": "Briggs, Ranbe",
+      "date": "Dec 2023",
+      "iso": "2023-12-15",
+      "type": "album",
+      "id": "1004701960",
+      "url": "https://kematikyrecords.bandcamp.com/album/kmy013",
+      "cover": "https://f4.bcbits.com/img/a0085442442_10.jpg",
+      "tracks": [
+        [
+          "Briggs - Hey Sexy",
+          "7:07"
+        ],
+        [
+          "Briggs - Hey Sexy (Ranbe Remix)",
+          "7:17"
+        ],
+        [
+          "Briggs - Rabbit Hole",
+          "7:34"
+        ]
+      ],
+      "about": "We present our release number 13 with a new comer from Costa Rica, Briggs. He invites another producer (Ranbe) to make a great remix aswell. This EP consists in 3 bomb minimal deep tech tracks. Let's check!"
+    },
+    {
+      "cat": "KSE001",
+      "title": "Light After Dark EP",
+      "artist": "Kawaii San",
+      "date": "Dec 2023",
+      "iso": "2023-12-01",
+      "type": "album",
+      "id": "4044783950",
+      "url": "https://kematikyrecords.bandcamp.com/album/kse001-kawaii-san-light-after-dark-ep",
+      "cover": "https://f4.bcbits.com/img/a4157722502_10.jpg",
+      "tracks": [
+        [
+          "Kawaii San - Last Chance",
+          "8:23"
+        ],
+        [
+          "Kawaii San - Light After Dark",
+          "6:28"
+        ],
+        [
+          "Kawaii San - Cloud 9",
+          "7:04"
+        ],
+        [
+          "Kawaii San - Love Across a Crowded Rave",
+          "6:52"
+        ],
+        [
+          "Kawaii San - Sub-T",
+          "8:39"
+        ]
+      ],
+      "about": "Hi, fellas! We had a pause for a while for a good cause: to evolve and prepare ourselves to this release, that represents the beginning of a new era in our music. We are constantly changing and seeking for new forms to express the vibrations that we like the most and it was already time to start a new series in our label, which is more focused on House/Electro/Techno/Breaks party weapons and it's called: Kematiky Sonar Episodes. Our debut artist on this is someone we follow for a long time, who is producing a lot of great tracks lately: Kawaii San. His deep sound design is such an inspiration to the more demanding listeners. This EP is a real trip between spacey elements and solid grooves. 5 beautiful tracks that will make you enjoy yourselves."
+    },
+    {
+      "cat": "",
+      "title": "KMY012.2",
+      "artist": "Tasq",
+      "date": "Jun 2023",
+      "iso": "2023-06-16",
+      "type": "album",
+      "id": "499364192",
+      "url": "https://kematikyrecords.bandcamp.com/album/kmy0122",
+      "cover": "https://f4.bcbits.com/img/a3104344414_10.jpg",
+      "tracks": [
+        [
+          "Tasq - Tanared",
+          "15:36"
+        ],
+        [
+          "Tasq - Por Quatro",
+          "9:58"
+        ],
+        [
+          "Tasq - Fromt",
+          "10:07"
+        ],
+        [
+          "Tasq - Imagina",
+          "11:50"
+        ]
+      ],
+      "about": "After a long break, we are back with the second part for the previous release, from our hood boy, Tasq. 4 minimal, dub and house beautiful tracks that takes you into a journey which defines his particular style so well. Go for it!"
+    },
+    {
+      "cat": "KMY012",
+      "title": "KMY012",
+      "artist": "Tasq",
+      "date": "Jun 2022",
+      "iso": "2022-06-30",
+      "type": "album",
+      "id": "3097366485",
+      "url": "https://kematikyrecords.bandcamp.com/album/kmy012",
+      "cover": "https://f4.bcbits.com/img/a3860964029_10.jpg",
+      "tracks": [
+        [
+          "Tasq - Ambiência Integrada",
+          "9:13"
+        ],
+        [
+          "Tasq - Warehouse Reverb",
+          "7:00"
+        ],
+        [
+          "Tasq - Detuned",
+          "7:05"
+        ],
+        [
+          "Tasq - Veenus",
+          "5:30"
+        ],
+        [
+          "Tasq - Seq27",
+          "8:07"
+        ]
+      ],
+      "about": "Here we go with a brand new release. Minimalistic housy bombs made by Tasq, our new brazilian resident."
+    },
+    {
+      "cat": "KMY011",
+      "title": "KMY011",
+      "artist": "Hannd, Boulderhead",
+      "date": "May 2022",
+      "iso": "2022-05-03",
+      "type": "album",
+      "id": "637037052",
+      "url": "https://kematikyrecords.bandcamp.com/album/kmy011",
+      "cover": "https://f4.bcbits.com/img/a3216648429_10.jpg",
+      "tracks": [
+        [
+          "Hannd - Shift Patterns",
+          "6:28"
+        ],
+        [
+          "Hannd - Galactic Saw Dust",
+          "8:23"
+        ],
+        [
+          "Hannd - Penguin Shuffler",
+          "6:46"
+        ],
+        [
+          "Hannd - Penguin Shuffler (Boulderhead Remix)",
+          "5:59"
+        ]
+      ],
+      "about": "We are here again to present our first foreign artist to release an EP with us. The british, Hannd, delivers a deep, dense and dancing 3 party weapons. Besides that, a minimalist atmosferic remix by his countryman, Boulderhead."
+    },
+    {
+      "cat": "KMY010",
+      "title": "KMY010",
+      "artist": "Adur, Guterres, Bruno Bernades",
+      "date": "Jan 2022",
+      "iso": "2022-01-17",
+      "type": "album",
+      "id": "2810840312",
+      "url": "https://kematikyrecords.bandcamp.com/album/kmy010",
+      "cover": "https://f4.bcbits.com/img/a1688082228_10.jpg",
+      "tracks": [
+        [
+          "Adur - Dreams",
+          "7:03"
+        ],
+        [
+          "Adur - Dreams (Guterres Remix)",
+          "6:33"
+        ],
+        [
+          "Adur - Expansive",
+          "6:31"
+        ],
+        [
+          "Adur - Expansive (Bruno Bernades Rework)",
+          "7:14"
+        ],
+        [
+          "Adur - Primitive",
+          "7:10"
+        ]
+      ],
+      "about": "Our 10th release comes with an atmosferic deep tech vibes from our new resident: Adur."
+    },
+    {
+      "cat": "KMY009",
+      "title": "KMY009",
+      "artist": "Guimas",
+      "date": "Jul 2021",
+      "iso": "2021-07-16",
+      "type": "album",
+      "id": "2369330712",
+      "url": "https://kematikyrecords.bandcamp.com/album/kmy009",
+      "cover": "https://f4.bcbits.com/img/a1473833091_10.jpg",
+      "tracks": [
+        [
+          "Guimas - Guitar",
+          "6:57"
+        ],
+        [
+          "Guimas - Papan",
+          "7:00"
+        ],
+        [
+          "Guimas - Zoo Woo",
+          "6:03"
+        ]
+      ],
+      "about": "Solid grooves of minimal chords from Guimas."
+    },
+    {
+      "cat": "KMY008",
+      "title": "KMY008",
+      "artist": "VA - Various Artists",
+      "date": "Apr 2021",
+      "iso": "2021-04-06",
+      "type": "album",
+      "id": "658315875",
+      "url": "https://kematikyrecords.bandcamp.com/album/kmy008",
+      "cover": "https://f4.bcbits.com/img/a3855549380_10.jpg",
+      "tracks": [
+        [
+          "Gioseph - Noturnal Neon",
+          "7:12"
+        ],
+        [
+          "Leopold - Amor",
+          "7:05"
+        ],
+        [
+          "Lrnzzo - Data Dreamer",
+          "6:30"
+        ],
+        [
+          "Zippel - Soundtrack Of Feelings",
+          "6:10"
+        ],
+        [
+          "Vini Luz - Dub With Me",
+          "8:53"
+        ],
+        [
+          "Guilherme VAC - Bruxelas",
+          "7:12"
+        ],
+        [
+          "Forest Louche - The Millenium Love",
+          "7:11"
+        ],
+        [
+          "Macassi - Reject",
+          "8:02"
+        ],
+        [
+          "Pedro Berger - Berries",
+          "6:07"
+        ],
+        [
+          "Guterres - Exciting",
+          "6:50"
+        ],
+        [
+          "Arthur Dutra - Lex Scripta",
+          "6:44"
+        ],
+        [
+          "Adur - Painkiller",
+          "9:25"
+        ],
+        [
+          "Tasq - Untitled F",
+          "9:06"
+        ]
+      ],
+      "about": "VA - Various Artists - 12 Brazilian artists + 1 Peruvian"
+    },
+    {
+      "cat": "KMY007",
+      "title": "KMY007",
+      "artist": "Leopold, Royce Larøca",
+      "date": "Apr 2021",
+      "iso": "2021-04-04",
+      "type": "album",
+      "id": "1806851817",
+      "url": "https://kematikyrecords.bandcamp.com/album/kmy007",
+      "cover": "https://f4.bcbits.com/img/a0707279314_10.jpg",
+      "tracks": [
+        [
+          "Leopold - Dr.ugs",
+          "5:58"
+        ],
+        [
+          "Leopold, Royce Larøca - Think About",
+          "8:10"
+        ],
+        [
+          "Leopold - Planet Warning",
+          "6:43"
+        ]
+      ],
+      "about": "Our 7th release comes with Leopold, brazilian living in Canada. Two deep cuts by himself and one colaboration featuring Royce Larøca, another brazilian residing in Ireland. Enjoy it <3"
+    },
+    {
+      "cat": "KMY006",
+      "title": "KMY006",
+      "artist": "Zeitgeist",
+      "date": "Apr 2021",
+      "iso": "2021-04-01",
+      "type": "album",
+      "id": "2222189478",
+      "url": "https://kematikyrecords.bandcamp.com/album/kmy006",
+      "cover": "https://f4.bcbits.com/img/a1438954994_10.jpg",
+      "tracks": [
+        [
+          "Zeitgeist - Visual Snow",
+          "8:16"
+        ],
+        [
+          "Zeitgeist - Space Sumo Wrestler",
+          "6:57"
+        ],
+        [
+          "Zeitgeist - Simple Joy",
+          "5:52"
+        ]
+      ],
+      "about": "KMY006 by Zeitgeist, released 01 April 2021 1. Zeitgeist - Visual Snow 2. Zeitgeist - Space Sumo Wrestler 3. Zeitgeist - Simple Joy"
+    },
+    {
+      "cat": "KMY005",
+      "title": "KMY005",
+      "artist": "Alan Djonne, Dallanoras",
+      "date": "Mar 2021",
+      "iso": "2021-03-29",
+      "type": "album",
+      "id": "3302442639",
+      "url": "https://kematikyrecords.bandcamp.com/album/kmy005",
+      "cover": "https://f4.bcbits.com/img/a1509260461_10.jpg",
+      "tracks": [
+        [
+          "Alan Djonne - Auge",
+          "5:17"
+        ],
+        [
+          "Alan Djonne - Gosmenta",
+          "6:36"
+        ],
+        [
+          "Alan Djonne - Auge (Dallanoras Remix)",
+          "7:02"
+        ]
+      ],
+      "about": "KMY005 by Alan Djonne, Dallanoras, released 29 March 2021 1. Alan Djonne - Auge 2. Alan Djonne - Gosmenta 3. Alan Djonne - Auge (Dallanoras Remix)"
+    },
+    {
+      "cat": "KMY004",
+      "title": "KMY004",
+      "artist": "Guterres, Alex Dittrich",
+      "date": "Mar 2021",
+      "iso": "2021-03-28",
+      "type": "album",
+      "id": "907859538",
+      "url": "https://kematikyrecords.bandcamp.com/album/kmy004",
+      "cover": "https://f4.bcbits.com/img/a4291771796_10.jpg",
+      "tracks": [
+        [
+          "Guterres - Maze",
+          "7:25"
+        ],
+        [
+          "Guterres - The Boss",
+          "7:25"
+        ],
+        [
+          "Guterres - Maze (Alex Dittrich Remix)",
+          "6:26"
+        ]
+      ],
+      "about": "KMY004 by Guterres, Alex Dittrich, released 28 March 2021 1. Guterres - Maze 2. Guterres - The Boss 3. Guterres - Maze (Alex Dittrich Remix)"
+    },
+    {
+      "cat": "KMY003",
+      "title": "KMY003",
+      "artist": "Anthony",
+      "date": "Mar 2021",
+      "iso": "2021-03-27",
+      "type": "album",
+      "id": "889405267",
+      "url": "https://kematikyrecords.bandcamp.com/album/kmy003",
+      "cover": "https://f4.bcbits.com/img/a1833426508_10.jpg",
+      "tracks": [
+        [
+          "Anthony - Indica",
+          "6:17"
+        ],
+        [
+          "Anthony - Heat",
+          "7:53"
+        ],
+        [
+          "Anthony - Final Serenade",
+          "7:51"
+        ]
+      ],
+      "about": "KMY003 by Anthony, released 27 March 2021 1. Anthony - Indica 2. Anthony - Heat 3. Anthony - Final Serenade"
+    },
+    {
+      "cat": "KMY002",
+      "title": "KMY002",
+      "artist": "Gabriel Dos Santos",
+      "date": "Mar 2021",
+      "iso": "2021-03-23",
+      "type": "album",
+      "id": "1154888366",
+      "url": "https://kematikyrecords.bandcamp.com/album/kmy002",
+      "cover": "https://f4.bcbits.com/img/a1849366168_10.jpg",
+      "tracks": [
+        [
+          "Gabriel Dos Santos - Caótico",
+          "8:17"
+        ],
+        [
+          "Gabriel Dos Santos - It's Dub",
+          "8:53"
+        ],
+        [
+          "Gabriel Dos Santos - It's Dub (Arapuã Remix)",
+          "7:26"
+        ]
+      ],
+      "about": "KMY002 by Gabriel Dos Santos, released 23 March 2021 1. Gabriel Dos Santos - Caótico 2. Gabriel Dos Santos - It's Dub 3. Gabriel Dos Santos - It's Dub (Arapuã Remix)"
+    },
+    {
+      "cat": "KMY001",
+      "title": "KMY001",
+      "artist": "Dallanoras",
+      "date": "Mar 2021",
+      "iso": "2021-03-21",
+      "type": "album",
+      "id": "1970686933",
+      "url": "https://kematikyrecords.bandcamp.com/album/kmy001",
+      "cover": "https://f4.bcbits.com/img/a3576280950_10.jpg",
+      "tracks": [
+        [
+          "Dallanoras - Minimamente",
+          "6:39"
+        ],
+        [
+          "Dallanoras - Anime",
+          "7:30"
+        ],
+        [
+          "Dallanoras - Vamodale",
+          "8:11"
+        ]
+      ],
+      "about": "First Kematiky's release. Hope you enjoy ."
+    },
+    {
+      "cat": "",
+      "title": "Pratice (Free Download)",
+      "artist": "Guterres",
+      "date": "Jan 2021",
+      "iso": "2021-01-06",
+      "type": "track",
+      "id": "1431621090",
+      "url": "https://kematikyrecords.bandcamp.com/track/guterres-pratice-free-download",
+      "cover": "https://f4.bcbits.com/img/a0071317056_10.jpg",
+      "tracks": [
+        [
+          "Guterres - Guterres - Pratice (Free Download)",
+          "6:51"
+        ]
+      ],
+      "about": "Free download by our resident Guterres."
+    },
+    {
+      "cat": "",
+      "title": "I'm Not Your (Free Download)",
+      "artist": "Leopold",
+      "date": "Jan 2021",
+      "iso": "2021-01-03",
+      "type": "track",
+      "id": "4251930593",
+      "url": "https://kematikyrecords.bandcamp.com/track/leopold-im-not-your-free-download",
+      "cover": "https://f4.bcbits.com/img/a2581033288_10.jpg",
+      "tracks": [
+        [
+          "Leopold - Leopold - I'm Not Your (Free Download)",
+          "6:37"
+        ]
+      ],
+      "about": "Inspired by the movie i'm not your negro."
     }
   ]
 }
